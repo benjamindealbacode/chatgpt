@@ -10,3 +10,14 @@
     }
   }
 }
+[
+  {
+    "name": "get_all_bookings",
+    "description": "Fetch all bookings from Wix",
+    "parameters": {},
+    "wix": {
+      "operation": "wix-bookings.v2.get_bookings",
+      "args": {}
+    }
+  }
+]
